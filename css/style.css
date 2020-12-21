@@ -1,0 +1,32 @@
+body {
+    font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+#main {
+    background-color: #eeeeee;
+    border-radius: 10px;
+}
+#title {
+    color: #333333;
+    text-align: center;
+    line-height: 20px;
+    padding: 20px;
+}
+#title h1 {
+  font-size: 45px;
+  font-weight: 600;
+}
+#title h4 {
+  font-size: 17px;
+  font-weight: 200;
+}
+#img-div{
+  background-color: #ffffff;
+}
+#img-div img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#img-caption {
+  text-align: center;
+}
